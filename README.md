@@ -38,4 +38,5 @@ It includes AI assistance, personalized recommendations, reminders, quizzes, aut
 **Mahesh Yaligar**  
 Passionate full-stack developer | Focused on AI + Web Integration  
 📧 yaliagrmhesh75@gmail.com  
-🌐 [GitHub](https://github.com/yourgithubusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-yaligar-247b852a3)
+<p align="center"> <a href="https://www.linkedin.com/in/mahesh-yaligar-247b852a3" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://github.com/maheshyaligar" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:yaliagrmahesh75@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/> </a> </p>
