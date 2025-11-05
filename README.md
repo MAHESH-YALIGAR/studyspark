@@ -33,7 +33,7 @@ It includes AI assistance, personalized recommendations, reminders, quizzes, aut
 **Email Service:** NodeMailer + Google App Password
 
 
-## 🙌 Author
+## Author
 
 **Mahesh Yaligar**  
 Passionate full-stack developer | Focused on AI + Web Integration  
